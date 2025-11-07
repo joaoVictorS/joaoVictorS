@@ -8,7 +8,7 @@ Sharing knowledge and its benefits is the greatest act of charity a developer ca
 ## ⚡ Technologies.
 Talk to me about
 - Front-end development using Reactjs, Angular, Apex.
-- Backend development using Node, Node with NestJs and Redux, PHP with laravel, Pyhton, PLSQL.
+- Backend development using Node, Node with NestJs, PHP with laravel, Pyhton, PLSQL.
 - Server-render using Angular Universal.
 - Creating scalable cloud architecture using Docker, Docker-Compose, Microsoft Azure and AWS.
 
