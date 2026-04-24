@@ -5,12 +5,17 @@ Software Engineer || Full Stack Developer.
 Sharing knowledge and its benefits is the greatest act of charity a developer can do. Throughout my journey, I seek to develop, integrate and develop people around me, not only in relation to the development of codes and good practices, but also in the development of interpersonal relationships that provide the growth of a fairer and healthier community..
 
 
-## ⚡ Technologies.
+## Technologies.
+
 Talk to me about
-- Front-end development using Reactjs, Angular, Apex.
-- Backend development using Node, Node with NestJs, PHP with laravel, Pyhton, PLSQL.
-- Server-render using Angular Universal.
-- Creating scalable cloud architecture using Docker, Docker-Compose, Microsoft Azure and AWS.
+
+- Front-end development using React.js, Angular, and Oracle Apex.
+- Backend development using Node.js (with NestJS), PHP (Laravel), Python, and PL/SQL.
+- Server-side rendering using Angular Universal.
+- Creating scalable cloud architecture using Docker, Docker Compose, Microsoft Azure and Amazon Web Services.
+- Infrastructure and DevOps practices, including CI/CD pipelines with GitHub Actions, automation, and deployment strategies.
+- Infrastructure as Code (IaC) and environment provisioning.
+- Building reliable, scalable, and maintainable systems.
 
 ## 📫 Contact Me
 -  <a href = "mailto:jvssb@ic.ufal.br"><img   src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
