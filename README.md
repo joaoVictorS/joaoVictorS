@@ -10,9 +10,9 @@ Sharing knowledge and its benefits is the greatest act of charity a developer ca
 Talk to me about
 
 - Front-end development using React.js, Angular.js, Vue.js, and Oracle Apex.
-- Backend development using Node.js (with NestJS), PHP (Laravel), Python, elixir, Go, and PL/SQL.
-- Server-side rendering using Angular Universal.
-- Creating scalable cloud architecture using Docker, Docker Compose, Microsoft Azure and Amazon Web Services.
+- Backend development using Node.js (with NestJS), PHP (Laravel), Python, Elixir, Go, and PL/SQL.
+- Server-side rendering using Angular Universal and Nextjs.
+- Creating scalable cloud architecture using Docker, Docker Compose, Microsoft Azure, Google Cloud Plataform and Amazon Web Services.
 - Infrastructure and DevOps practices, including CI/CD pipelines with GitHub Actions, automation, and deployment strategies.
 - Infrastructure as Code (IaC) and environment provisioning.
 - Building reliable, scalable, and maintainable systems.
