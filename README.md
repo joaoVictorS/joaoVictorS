@@ -7,14 +7,14 @@ Sharing knowledge and its benefits is the greatest act of charity a developer ca
 
 ## Technologies.
 
-Talk to me about
+Talk to me about:
 
-🎨 Front-end — React.js, Angular.js, Vue.js, Next.js and Oracle APEX
-⚙️ Back-end — Node.js (NestJS), PHP (Laravel), Python and PL/SQL — some exposure to Go and Elixir
-🖥️ Server-side rendering — Next.js and Angular Universal
-☁️ Cloud architecture — AWS, Azure, GCP, Docker and Docker Compose
-🔄 DevOps — CI/CD with GitHub Actions, automation, deployment strategies and Infrastructure as Code
-🏗️ Building reliable, scalable and maintainable systems
+- 🎨 **Front-end** — React.js, Angular.js, Vue.js, Next.js and Oracle APEX
+- ⚙️ **Back-end** — Node.js (NestJS), PHP (Laravel), Python and PL/SQL — some exposure to Go and Elixir
+- 🖥️ **Server-side rendering** — Next.js and Angular Universal
+- ☁️ **Cloud architecture** — AWS, Azure, GCP, Docker and Docker Compose
+- 🔄 **DevOps** — CI/CD with GitHub Actions, automation, deployment strategies and Infrastructure as Code
+- 🏗️ **Building reliable, scalable, and maintainable systems**
 
 
 ## 📫 Contact Me
